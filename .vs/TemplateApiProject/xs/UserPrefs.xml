@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B0D8C482-8D0D-41DC-AF98-61114A3E8A7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.1_220-_220Services.TemplateApiProject.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TemplateApiProject" expanded="True">
+            <Node name="1 - Services" expanded="True" />
+            <Node name="2 - Application" expanded="True" />
+            <Node name="3 - Domain" expanded="True">
+              <Node name="TemplateApiProject.Domain" expanded="True">
+                <Node name="Class1.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="4 - Infra" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4_220-_220Infra.TemplateApiProject.Infra.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.2_220-_220Application.TemplateApiProject.Application FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.3_220-_220Domain.TemplateApiProject.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.4_220-_220Infra.TemplateApiProject.Infra.Utils FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4_220-_220Infra.TemplateApiProject.Infra.Services FirstBuild="True" />
+</Properties>
