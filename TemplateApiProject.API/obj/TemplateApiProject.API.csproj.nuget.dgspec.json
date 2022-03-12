@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/TemplateApiProject.API.csproj": {}
+    "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\TemplateApiProject.API.csproj": {}
   },
   "projects": {
-    "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/TemplateApiProject.API.csproj": {
+    "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\TemplateApiProject.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/TemplateApiProject.API.csproj",
+        "projectUniqueName": "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\TemplateApiProject.API.csproj",
         "projectName": "TemplateApiProject.API",
-        "projectPath": "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/TemplateApiProject.API.csproj",
-        "packagesPath": "/Users/gilmagno/.nuget/packages/",
-        "outputPath": "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/obj/",
+        "projectPath": "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\TemplateApiProject.API.csproj",
+        "packagesPath": "C:\\Users\\Gilmagno Costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/gilmagno/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Gilmagno Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IfoJtOzkbi32fO2mUFnblMVousDQhRw88JXhDNo0XyVxU8395LeWWI0SdFCfMzndgKrXd2n27XazOr7ZUsR5A==",
+  "dgSpecHash": "QtR2WIQLfJ5o1Ih36A2q2RHnw2GHQDZ3U+arlyTTE6Slq6bp0fro5BFbqZjbF+4v396tFIFe5dGDuK3Wn4bbjA==",
   "success": true,
-  "projectFilePath": "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.Infra.Utils/TemplateApiProject.Infra.Utils.csproj",
+  "projectFilePath": "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.Infra.Utils\\TemplateApiProject.Infra.Utils.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

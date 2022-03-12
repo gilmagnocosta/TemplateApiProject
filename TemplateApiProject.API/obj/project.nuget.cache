@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FVRemxLgI88OLNnCJTgePdJjgpVVIWldgcP6O11LiCXk4WSbb24kTSEmjjQ0yhHXDbqIg3+I7itcJiIsqz1jbA==",
+  "dgSpecHash": "ynPn/EVZ63fOu9zazxCi1Iatd9npCjeinjxofisy83wrxB78Sng1zloWaqSplpycoAtE/fduWDvj5QblkMYq1Q==",
   "success": true,
-  "projectFilePath": "/Users/gilmagno/Projects/TemplateApiProject/TemplateApiProject.API/TemplateApiProject.API.csproj",
+  "projectFilePath": "C:\\Users\\Gilmagno Costa\\Source\\Repos\\TemplateApiProject\\TemplateApiProject.API\\TemplateApiProject.API.csproj",
   "expectedPackageFiles": [
-    "/Users/gilmagno/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+    "C:\\Users\\Gilmagno Costa\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

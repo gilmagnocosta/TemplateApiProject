@@ -1,0 +1,17 @@
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Application.deps.json
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Application.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\ref\TemplateApiProject.Application.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Application.pdb
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.csproj.AssemblyReference.cache
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.AssemblyInfoInputs.cache
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.AssemblyInfo.cs
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\ref\TemplateApiProject.Application.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.pdb
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Domain.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Infra.Utils.dll
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Domain.pdb
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\bin\Debug\net6.0\TemplateApiProject.Infra.Utils.pdb
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Application\obj\Debug\net6.0\TemplateApiProject.Application.csproj.CopyComplete
