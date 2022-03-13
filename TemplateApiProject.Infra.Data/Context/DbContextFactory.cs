@@ -19,6 +19,8 @@ namespace TemplateApiProject.Application.Data.Context
 
             var connectionString = configuration
                   .GetConnectionString("DatabaseConnection");
+            
+            Console.WriteLine($"Conexão: {connectionString}");
 
             dbContextBuilder.UseSqlServer(connectionString);
 

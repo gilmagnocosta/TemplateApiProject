@@ -34,7 +34,7 @@ namespace TemplateApiProject.Application.Handlers.Requests
         {
             User user = _mapper.Map<CreateUserRequest, User>(request);
 
-            await _service.AddAsync(user);
+            await _service.AddNewAsync(user);
 
             if (!_notificationContext.HasNotifications)
             {

@@ -4,9 +4,9 @@ using TemplateApiProject.Application.Requests;
 
 namespace TemplateApiProject.Application.Validators
 {
-    public class OrderUserValidator : AbstractValidator<CreateUserRequest>
+    public class CreateUserValidator : AbstractValidator<CreateUserRequest>
     {
-        public OrderUserValidator()
+        public CreateUserValidator()
         {
 
             RuleFor(a => a.FirstName)

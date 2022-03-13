@@ -14,15 +14,18 @@ namespace TemplateApiProject.Domain.Service
     {
         readonly IUnitOfWork _unitOfWork;
         readonly IRepository<User> _userRepository;
+        readonly IRepository<Person> _personRepository;
         NotificationContext _notificationContext;
 
         public UserService(
             IUnitOfWork unitOfWork,
             NotificationContext notificationContext,
-            IRepository<User> userRepository) : base(unitOfWork, userRepository)
+            IRepository<User> userRepository,
+            IRepository<Person> personRepository) : base(unitOfWork, userRepository)
         {
             _unitOfWork = unitOfWork;
             _userRepository = userRepository;
+            _personRepository = personRepository;
         }
 
         public Task<User> Authenticate(string email, string password)
@@ -43,6 +46,7 @@ namespace TemplateApiProject.Domain.Service
 
             user.Password = PasswordGenerator.Generate(user.Password);
 
+            await _personRepository.InsertAsync(user.Person);
             await _userRepository.InsertAsync(user);
 
             await _unitOfWork.Complete();

@@ -9,3 +9,4 @@ C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Infra
 C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Infra.Utils\obj\Debug\net6.0\TemplateApiProject.Infra.Utils.dll
 C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Infra.Utils\obj\Debug\net6.0\ref\TemplateApiProject.Infra.Utils.dll
 C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Infra.Utils\obj\Debug\net6.0\TemplateApiProject.Infra.Utils.pdb
+C:\Users\Gilmagno Costa\Source\Repos\TemplateApiProject\TemplateApiProject.Infra.Utils\obj\Debug\net6.0\TemplateApiProject.Infra.Utils.csproj.AssemblyReference.cache
