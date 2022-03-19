@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TemplateApiProject.API",
+    "\\TemplateApiProject.API\\Controllers",
+    "\\TemplateApiProject.Infra.Data",
+    "\\TemplateApiProject.Infra.Data\\Migrations"
   ],
   "SelectedNode": "\\TemplateApiProject.sln",
   "PreviewInSolutionExplorer": false

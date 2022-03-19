@@ -1,0 +1,42 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Gilmagno Costa",
+    "description": "API project with DDD pattern",
+    "identity": "Template Api Project by Gilmagno",
+    "name": "ApiGil",
+    "shortName": "ApiGil",
+    "sourceName": "TemplateApiProject",
+    "preferNameDirectory": true,
+    "classifications": [
+        "Web",
+        "ASP.NET"
+    ],
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "guids": [
+        "{1EAA9EFA-0868-46ED-8C72-A3786D92925B}",
+        "{78E7B16F-3D2D-4BE6-8739-BF21E8A00669}",
+        "{1887CEA1-E169-4C80-AB0B-868B857DF5F0}",
+        "{C79F4D31-CD18-4F51-992D-5CD620E8818D}",
+        "{8B27E4DC-72C6-441B-B38A-442F70AF0724}"
+    ],
+    "primaryOutputs": [
+        {
+            "path": "TemplateApiProject.API\\TemplateApiProject.API.csproj"
+        },
+        {
+            "path": "TemplateApiProject.Application\\TemplateApiProject.Application.csproj"
+        },
+        {
+            "path": "TemplateApiProject.Domain\\TemplateApiProject.Domain.csproj"
+        },
+        {
+            "path": "TemplateApiProject.Infra.Data\\TemplateApiProject.Infra.Data.csproj"
+        },
+        {
+            "path": "TemplateApiProject.Infra.Utils\\TemplateApiProject.Infra.Utils.csproj"
+        }
+    ]
+} 
